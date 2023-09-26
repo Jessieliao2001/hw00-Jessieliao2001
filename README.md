@@ -9,6 +9,17 @@ Edit this README file to include a brief biography of yourself. Your README shou
 * Links
 * A summary and reflection of the Git/GitHub workflow you adopted for this homework, and of your experience with Markdown (e.g., provide a summary of the workflow you adopted, and add some comments about something new you learned, something that surprised you, etc.)
 
+# My Intro
+*Hi everybody!*
+![My Picture](./Desktop/selfie.PNG)
+I'm **Jiaying Liao** from the **MACSS** program and in the **econ track**. Most of my friends just call me ***Jessie***. 
+
+## Facts about me
+* About my UG: I went to University of Macau for my undergrad, with a major in economics and a minor in applied math. In UMac I also learned a little French and Spanish ;) exciting if we can have a chat! 
+![My page in UMacau](https://econ.fss.um.edu.mo/bachelor-student-placement)
+* About my hobbies: Interested in *indoor activities* and if you're finding someone for **karaoke**, just call me!
+
+
 
 
 ## 📚  Resources 
