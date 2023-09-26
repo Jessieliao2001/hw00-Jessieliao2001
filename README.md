@@ -19,7 +19,14 @@ I'm **Jiaying Liao** from the **MACSS** program and in the **econ track**. Most 
 [My page in UMacau](https://econ.fss.um.edu.mo/bachelor-student-placement)
 * About my hobbies: Interested in *indoor activities* and if you're finding someone for **karaoke**, just call me!
 
-
+# Summary & Reflection
+1. To add Headers, we can use "# Title"
+2. To add Emphasis, we can use "**Importance**"
+3. To begin lists, we can use "1." or "* "
+What I learned new is how to add Images and Links in the README.md file.
+4. To add Images, we can use "![Name for image](filenameofphoto.jpg)"
+5. To add Links, we can use "[Websitename](URL)"
+Those two new ways of insertion make README.md file more interactive and informative. Also provided me a new way of notetaking!
 
 
 ## 📚  Resources 
