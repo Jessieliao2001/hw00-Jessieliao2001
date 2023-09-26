@@ -11,12 +11,12 @@ Edit this README file to include a brief biography of yourself. Your README shou
 
 # My Intro
 *Hi everybody!*
-![My Picture](./Desktop/selfie.PNG)
+![My Picture](./main/selfie.PNG)
 I'm **Jiaying Liao** from the **MACSS** program and in the **econ track**. Most of my friends just call me ***Jessie***. 
 
 ## Facts about me
 * About my UG: I went to University of Macau for my undergrad, with a major in economics and a minor in applied math. In UMac I also learned a little French and Spanish ;) exciting if we can have a chat! 
-![My page in UMacau](https://econ.fss.um.edu.mo/bachelor-student-placement)
+[My page in UMacau](https://econ.fss.um.edu.mo/bachelor-student-placement)
 * About my hobbies: Interested in *indoor activities* and if you're finding someone for **karaoke**, just call me!
 
 
