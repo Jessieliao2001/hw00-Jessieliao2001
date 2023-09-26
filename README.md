@@ -11,7 +11,7 @@ Edit this README file to include a brief biography of yourself. Your README shou
 
 # My Intro
 *Hi everybody!*
-![My Picture](./main/hw00-Jessieliao2001/selfie.png)
+![My Picture](selfie.png)
 I'm **Jiaying Liao** from the **MACSS** program and in the **econ track**. Most of my friends just call me ***Jessie***. 
 
 ## Facts about me
